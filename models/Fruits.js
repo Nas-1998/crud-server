@@ -74,7 +74,7 @@ class Fruit
         } 
         else 
         {
-        throw "Quote not found";
+        throw "Fruit not found";
         }
     }
 
